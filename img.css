@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@0;1&display=swap');
+*{font-family: 'PT Sans', sans-serif;}
+.img1{
+    height: 500px;
+    width: 100%;
+}
+.img2{
+    height: 500px;
+    width: 100%;
+}
+.img3{
+    height: 500px;
+    width: 100%;
+}
+.imgSize1{
+    height: 200px;
+}
+.imgSize2{
+    height: 200px;
+}
+.imgSize3{
+    height: 200px;
+}
+.imgSize4{
+    height: 200px;
+}
+.img-sizing1{
+    height: 68px;
+    width: 127px;
+}
+.img-sizing2{
+    height: 68px;
+    width: 127px;
+}
+.img-sizing3{
+    height: 68px;
+    width: 127px;
+}
+.img-sizing4{
+    height: 68px;
+    width: 127px;
+}
+.size-of-text{
+    font-size:medium;
+}
